@@ -1,4 +1,4 @@
-# 🧑🏻‍💻Tech Challenge Hero Code👨🏻‍💻
+# 🦸🏻‍♂️ Tech Challenge Hero Code 🦸🏻‍♂️
 
 Bem vindos ao primeiro Tech Challenge da Hero Code. Nosso objetivo aqui é te preparar para um desafio técnico que é bastante comum em entrevistas de emprego, não só isso, você também vai aprimorar suas habilidades de programação com o teste que preparamos.
 
