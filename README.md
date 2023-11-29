@@ -6,7 +6,7 @@ Bem vindos ao primeiro Tech Challenge da Hero Code. Nosso objetivo aqui é te pr
 
 O melhor de tudo é que quem ganhar a competição ainda vai levar um pix de R$100,00 🤑
 
-E aí, bora ser um _(hero)_? 
+E aí, bora ser um _hero_? 
 
 
 ## Introdução
