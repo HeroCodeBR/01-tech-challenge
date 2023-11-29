@@ -1,8 +1,8 @@
 # 🧑🏻‍💻Tech Challenge Hero Code👨🏻‍💻
 
-Bem vindos ao primeiro Tech Challenge da Hero Code. Nosso objetivo aqui é te preparar para um desafio técnico que costuma ser comum em entrevistas de emprego, além de te ajudar a melhorar suas habilidades de programação.
+Bem vindos ao primeiro Tech Challenge da Hero Code. Nosso objetivo aqui é te preparar para um desafio técnico que é bastante comum em entrevistas de emprego, não só isso, você também vai aprimorar suas habilidades de programação com o teste que preparamos.
 
-Aqui, o melhor desafio ainda leva um pix de R$100,00
+O melhor de tudo é que quem ganhar a competição ainda vai levar um pix de R$100,00 🤑
 
 E aí, bora ser um _(hero)_? 
 
@@ -25,7 +25,7 @@ E aí, bora ser um _(hero)_?
 Você precisa abrir um PR, alterando o arquivo [PARTICIPANTS.md](PARTICIPANTS.md),
 com uma nova linha e seu repositório.
 
-O prazo para enviar o PR é até o dia 10/12, depois disso você pode utilizar para estudos o projeto, porém não concorrerá ao prêmio de R$100,00.
+O prazo para enviar o PR é até o dia 10/12 (domingo), depois disso você pode utilizar para estudos o projeto, porém não concorrerá ao prêmio de R$100,00.
 
 ## Critérios de Avaliação
 
@@ -35,7 +35,7 @@ O prazo para enviar o PR é até o dia 10/12, depois disso você pode utilizar p
 
 ## Dúvidas e Suporte
 
-Toda nossa comunicação será feita na nossa comunidade no discord, então, é crucial você estar lá dentro para participar
+Toda nossa comunicação será feita na nossa comunidade no discord, então, é crucial você estar lá dentro para participar.
 
 Link da comunidade: [clique aqui para entrar](https://discord.gg/rHqjd8uQZd)
 
