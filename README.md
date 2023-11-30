@@ -25,7 +25,7 @@ E aí, bora ser um _hero_?
 ## Como participar
 
 Você precisa abrir um PR, alterando o arquivo [PARTICIPANTS.md](PARTICIPANTS.md),
-com uma nova linha e seu repositório.
+com uma nova linha e seu repositório. Veja [nesse tutorial](https://youtu.be/liL9eXhPiOo) onde explicamos como fazer esse processo de abertura de PR
 
 O prazo para enviar o PR é até o dia 10/12 (domingo), depois disso você pode utilizar para estudos o projeto, porém não concorrerá ao prêmio de R$100,00.
 
