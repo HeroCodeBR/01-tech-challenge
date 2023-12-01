@@ -6,4 +6,6 @@
 | ramonnascimento | [tech-challenge-hero-code](https://github.com/ramon-nascimento/tech-challange-hero-code) | ⌛In Progress | Next.js | [GitHub](https://github.com/ramon-nascimento) |
 | matheusdsilva01 | [tech-challenge-herocode](https://github.com/matheusdsilva01/tech-challenge-hero) | ⌛In Progress | Next.js | [GitHub](https://github.com/matheusdsilva01) |
 | fixer3600 | [tech-challenge-herocode](https://github.com/matheusdsilva01/tech-challenge-hero) | ⌛In Progress | Next.js | [GitHub](https://github.com/fixer3600) |
+| indiodev | [tech-challenge-herocode](https://github.com/indiodev/herocode-taskban) | ⌛In Progress | Reac.js | [GitHub](https://github.com/indiodev) |
+
 
