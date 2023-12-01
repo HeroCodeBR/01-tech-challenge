@@ -9,3 +9,4 @@
 | isaahmdantas | [taskban](https://github.com/isaahmdantas/taskban) | ⌛In Progress | Next.js | [GitHub](https://github.com/isaahmdantas) |
 | cristianmeelo | [challenge-frontend-herocode-react](https://github.com/cristianmeelo/challenge-frontend-herocode-react) | ⌛In Progress | React.js | [GitHub](https://github.com/cristinmeelo) [Linkedin](https://www.linkedin.com/in/cristian-melo/) |
 | joao-leal12 | [tech-challenge-herocode](https://github.com/joao-leal12/task-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/joao-leal12) |
+| wllysses | [herocode-tech-challenge](https://github.com/wllysses/herocode-tech-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/wllysses) |
