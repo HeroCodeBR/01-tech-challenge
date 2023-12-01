@@ -8,4 +8,4 @@
 | fixer3600 | [tech-challenge-herocode](https://github.com/matheusdsilva01/tech-challenge-hero) | ⌛In Progress | Next.js | [GitHub](https://github.com/fixer3600) |
 | isaahmdantas | [taskban](https://github.com/isaahmdantas/taskban) | ⌛In Progress | Next.js | [GitHub](https://github.com/isaahmdantas) |
 | cristianmeelo | [challenge-frontend-herocode-react](https://github.com/cristianmeelo/challenge-frontend-herocode-react) | ⌛In Progress | React.js | [GitHub](https://github.com/cristinmeelo) [Linkedin](https://www.linkedin.com/in/cristian-melo/) |
-
+| joao-leal12 | [tech-challenge-herocode](https://github.com/joao-leal12/task-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/joao-leal12) |
