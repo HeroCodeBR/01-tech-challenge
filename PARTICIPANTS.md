@@ -11,3 +11,4 @@
 | joao-leal12 | [tech-challenge-herocode](https://github.com/joao-leal12/task-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/joao-leal12) |
 | wllysses | [herocode-tech-challenge](https://github.com/wllysses/herocode-tech-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/wllysses) |
 | kadu | [taskban](https://github.com/Kaduh15/Teskban) | ⌛In Progress | React.js | [GitHub](https://github.com/kaduh15) [Linkedin](https://www.linkedin.com/in/kaduh15/) |
+| Lara-Capila | [taskban](https://github.com/Lara-Capila/taskban-hero-code) | ⌛In Progress | Next.js | [GitHub](https://github.com/Lara-Capila) [Linkedin](https://www.linkedin.com/in/lara-capila/) |
