@@ -16,3 +16,4 @@
 | supremo1337 | [taskban](https://github.com/Supremo1337/to-do-challenge-hero-coe) | ⌛In Progress | Next.js | [Linkedin](https://www.linkedin.com/in/lucas-wyllame-aráujo-alves-768425207/) |
 | santanajoao | [kanban-board-tech-challenge](https://github.com/santanajoao/kanban-board-tech-challenge) | ⌛In Progress | Next.js | [GitHub](https://github.com/santanajoao) [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) |
 | emevieira123 | [taskban](https://github.com/emevieira123/taskban-hero-code) | ✅Done | React-Vite | [GitHub](https://github.com/emevieira123) [Linkedin](https://www.linkedin.com/in/emevieira/) |
+| RafaelMoreira | [taskban](https://github.com/RafaeltiMoreira/taskban-dash) | ⌛In Progress | React.js and Typescript | [GitHub](https://github.com/RafaeltiMoreira) [Linkedin](https://www.linkedin.com/in/rafael-moreira-ti/) |
