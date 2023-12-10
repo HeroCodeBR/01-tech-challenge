@@ -13,3 +13,4 @@
 | kadu | [taskban](https://github.com/Kaduh15/Teskban) | ⌛In Progress | React.js | [GitHub](https://github.com/kaduh15) [Linkedin](https://www.linkedin.com/in/kaduh15/) |
 | Lara-Capila | [taskban](https://github.com/Lara-Capila/taskban-hero-code) | ⌛In Progress | Next.js | [GitHub](https://github.com/Lara-Capila) [Linkedin](https://www.linkedin.com/in/lara-capila/) |
 | emevieira123 | [taskban](https://github.com/emevieira123/taskban-hero-code) | ⌛In Progress | React-Vite | [GitHub](https://github.com/emevieira123) [Linkedin](https://www.linkedin.com/in/emevieira/) |
+| RafaelMoreira | [taskban](https://github.com/RafaeltiMoreira/taskban-dash) | ⌛In Progress | React.js and Typescript | [GitHub](https://github.com/RafaeltiMoreira) [Linkedin](https://www.linkedin.com/in/rafael-moreira-ti/) |
